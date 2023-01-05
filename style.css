@@ -1,0 +1,50 @@
+.heading{
+width: 100%;
+font-size: 25px;
+margin: 0px;
+background-color: rgb(30, 4, 54);
+color:rgb(4, 80, 16)
+}
+.note{
+font-size: 20px;
+color:rgb(228, 37, 37)
+}
+body{
+background-size: cover;
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius:100px;
+}
+
+.div_speed{
+    float:left;
+
+}
+
+#speed{
+font-size:23px;
+margin:15px;
+}
+
+.div_volume_img{
+    width: 200px;
+    border-radius:100px;
+}
+
+.div_volume{
+    float:right;
+
+}
+
+#volume{
+font-size:23px;
+margin:15px;
+}
+
+
+canvas{
+border: 5px solid white;
+border-radius: 25px;
+}
